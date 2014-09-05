@@ -1,3 +1,4 @@
+<!-- Add new events to this array, according to the obvious pattern... -->
 <?
 $events = array(
 				array(

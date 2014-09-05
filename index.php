@@ -64,14 +64,14 @@
                         <h3>Membership</h3>
                         <p>Membership is just &pound;5 for the whole academic year, although you're never obliged to join.  Members will be issued with cards which give a discount at a number of fantastic Edinburgh tea shops though, as well as free or discounted access to our special events.  After October, Weekly MeeTeaings are &pound;1 per week for non-members.</p>
                         <p>You can pay for membership in person at any of our events, or <a href="http://www.eusa.ed.ac.uk/societies/society/SocieTea/">on the EUSA website</a>.</p>
-                        <h3>CommitTea 2013-14</h3>
+                        <h3>CommitTea 2014-15</h3>
                         <p>You can contact us at edinburghSocieTea {at} gmail {dot} com.</p>
                         <ul>
-                            <li>El PresidenTea: <a href="http://rhiaro.co.uk">Amy Guy</a> <em>(PhD, Informatics)</em></li>
-                            <li>El Vice PresidenTea: Alice Hailwood</li>
-                            <li>Tearesurer: Albert Lo</li>
-                            <li>SecreTeary: Charlotte Lilley <em>(3rd year, Biology)</em></li>
-                            <li>Records Keeper: Alex Kearney <em>(2nd year, Informatics)</em></li>
+                            <li>El PresidenTea: Matúš Falis <em>(3rd year, Informatics)</em></li>
+                            <li>El Vice PresidenTea: Matthew Summers (3rd year, Informatics)</em></li>
+                            <li>Tearesurer: Rikki Guy <em>(3rd year, Informatics)</em></li>
+                            <li>SecreTeary: Charlotte Lilley <em>(4th year, Biology)</em></li>
+                            <li>(Extra)Ordinary member: Amy Guy <em>(PhD, Informatics)</em></li>
                         </ul>
                         <h3>ConsTeatution 2013-14</h3>
                         <p>You can <a href="https://docs.google.com/document/d/1haa-0r6Mkg5OBc8QS9jaxKlKK7y-ms8a3Z0MsuPSg_k/edit?usp=sharing">read our ConsTeatution</a>, as required by EUSA.</p>
