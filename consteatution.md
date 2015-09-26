@@ -2,16 +2,22 @@
 layout: default
 ---
 
-# ConsTEAtution 2015-16
+## ConsTEAtution 2015-16
 
-## Section 1
+### Section 1
 
 stuff
 
-### Subsection
+#### Subsection
 
+<div>
 some more stuff
+</div>
 
-## Section 2
+### Section 2
+
+<div>
 
 etc
+
+</div>
