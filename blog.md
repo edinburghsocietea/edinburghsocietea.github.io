@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: default
 ---
-
-# Teablog
 
 {% for post in site.posts %}
   {% include post.html %}
