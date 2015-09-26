@@ -4,8 +4,8 @@
     <div class="w1of1 h-entry"><div class="inner">
       <h2 class="p-name">{{ post.title }}</h2>
       <p class="wee">By <span class="p-author h-card p-name">{{ post.author }}</span> on <time class="dt-published">{{ post.date | date_to_long_string }}</time></p>
-      {{ content }}
       <hr/>
+      {{ post.content }}
     </div></div>
   {% endfor %}
 {% include footer.html %}
