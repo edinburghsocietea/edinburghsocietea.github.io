@@ -11,13 +11,13 @@ stuff
 #### Subsection
 
 <div>
-some more stuff
+some **more** stuff
 </div>
 
 ### Section 2
 
 <div>
 
-etc
+etc *etc*
 
 </div>
