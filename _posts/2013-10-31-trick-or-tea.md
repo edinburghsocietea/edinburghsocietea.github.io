@@ -2,9 +2,8 @@
 layout: post
 date: 31st October 2013
 author: Jane O'Neill
+title: Trick or Tea
 ---
-
-## Trick or Tea
 
 It's Hallowe'en!
 
