@@ -3,7 +3,7 @@
   {% for post in site.posts %}
     <div class="w1of1 h-entry"><div class="inner">
       <h2 class="p-name">{{ post.title }}</h2>
-      <p>By <span class="p-author h-card p-name">{{ post.author }}</span> on <time class="dt-published">{{ post.date | date_to_long_string }}</time></p>
+      <p>By <span class="p-author h-card p-name">{{ post.author }}</span> on <a href=" {{ post.url }}" class="u-url"><time class="dt-published">{{ post.date | date_to_long_string }}</time></a></p>
       <hr/>
       {{ post.content }}
     </div></div>
