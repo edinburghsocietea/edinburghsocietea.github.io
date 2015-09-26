@@ -1,0 +1,19 @@
+# Site settings
+title: Edinburgh SocieTea
+email:
+description:
+baseurl:
+url: "http://www.edinburghsocietea.co.uk"
+twitter: edinburghsocietea
+github: edinburghsocietea
+
+# Build settings
+permalink: pretty
+
+highlighter: pygments
+
+gems:
+  - jekyll-redirect-from
+  
+collections:
+  - events
