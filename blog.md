@@ -1,0 +1,9 @@
+---
+layout: post
+---
+
+# Teablog
+
+{% for post in site.posts %}
+  {% include post.html %}
+{% endfor %}
