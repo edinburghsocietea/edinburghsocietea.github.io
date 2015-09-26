@@ -3,7 +3,7 @@
   {% for post in site.posts %}
     <div class="w1of1 h-entry"><div class="inner">
       <h2>{{ post.title }}</h2>
-      {{ content }}
+      {{ post.content }}
       <p>By <span class="p-author h-card p-name">{{ post.author }}</span> on <time class="dt-published">{{ post.date }}</time></p>
       <hr/>
     </div></div>
