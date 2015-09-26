@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: twocol
 ---
 
 ## Hey, tea lover
@@ -32,4 +32,4 @@ You can contact us at edinburghSocieTea {at} gmail {dot} com.
 
 ### ConsTeatution 2015-16
 
-You can [read our ConsTeatution](#), as required by EUSA.
+You can [read our ConsTeatution](consteatution), as required by EUSA.
