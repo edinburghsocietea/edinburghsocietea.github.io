@@ -11,7 +11,7 @@ We had an eventful session last week (14/3/13), as we elected the new commiTEA f
 
 ![](/img/130314_scones.jpg)
 
-![])/img/130314_lime.jpg)
+![](/img/130314_lime.jpg)
 
 Yes folks, that is real clotted cream! And real lime/lime tea goo-cakes!
 
