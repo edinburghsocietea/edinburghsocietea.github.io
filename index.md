@@ -16,7 +16,7 @@ You can't have tried them all.  We drink black, green, white, yellow and flavour
                         
 ### Membership
 
-Membership is just £5 for the whole academic year, although you're never obliged to join.  Members will be issued with cards which give a discount at a number of fantastic Edinburgh tea shops though, as well as free or discounted access to our special events.  After October, Weekly MeeTeaings are &pound;1 per week for non-members.
+Membership is just £5 for the whole academic year, although you're never obliged to join.  Members will be issued with cards which give a discount at a number of fantastic Edinburgh tea shops though, as well as free or discounted access to our special events.  After September, Weekly MeeTeaings are &pound;1 per week for non-members.
 
 You can pay for membership in person at any of our events, or <a href="http://www.eusa.ed.ac.uk/societies/society/SocieTea/">on the EUSA website</a>.
                         

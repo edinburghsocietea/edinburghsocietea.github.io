@@ -20,7 +20,7 @@ The most “classic" choice can be green tea, which is made from tea leaves that
 
 Green teas can have a vast range of flavours: light and sweet, vegetal, stony, or grassy.
 
-Available in SocieTEA: Bancha Hougicha, Bilouchun, Genmaicha, Japanese Cherry, Peach Sencha, Pre-Rain Lung Ching Dragon Well, Sencha
+Available in SocieTEA: Bancha Hougicha, Bilouchun, Genmaicha, Japanese Cherry, Peach Sencha, Pre-Rain Lung Ching Dragon Well, Sencha.
 
 ### Oolong Tea
 
@@ -28,7 +28,7 @@ Oolong tea, referring to the semi-oxidized (25 – 80% oxidation, that is somewh
 
 The most famous Oolong teas are Da Hong Pao (Wuyi rock tea), Tieguanyin (Iron Buddha) and Dongding (Taiwan Ice Peak). Generally speaking, Oolong has its distinctive sweet and fragrant aftertaste.
  
-Available in SocieTEA: Honey Black, Milk Oolong
+Available in SocieTEA: Honey Black, Milk Oolong.
 
 ### Herbal Tea
 
@@ -46,7 +46,7 @@ Pu’er and dark tea are post-fermented teas, with Pu’er coming from the Yunna
 
 The flavour and aroma of Pu’er is very earthy. The flavours of raw and cooked pu’er can differ a lot. Sometimes, a sea-like flavour, or even sea-weed can come out, especially in old or cooked Pu’ers. It is advisable to rinse these types thoroughly before actually drinking the infusions.
 
-Available in SocieTEA: Jing Mai Ancient Trees, Puer Ripen and Raw, Yunnan Puer
+Available in SocieTEA: Jing Mai Ancient Trees, Puer Ripen and Raw, Yunnan Puer.
 
 ### White Tea
 
@@ -54,7 +54,7 @@ White tea preserves the most natural and subtle flavours, because tea leaves onl
 
 The flavour of true white tea is soft and light, and slightly reminiscent of a light black tea.
 
-Available in SocieTEA: Moonlight White
+Available in SocieTEA: Moonlight White.
 
 ### Darjeeling
 
@@ -62,4 +62,4 @@ Darjeeling tea comes exclusively from the Darjeeling district in the East India.
 
 As for flavour, one could describe most Darjeelings as floral and fruity, with later flushes becoming more robust.
 
-Available in SocieTEA: First Flush, Red Thunder, Wonder
+Available in SocieTEA: First Flush, Red Thunder, Wonder.
