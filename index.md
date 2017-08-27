@@ -8,7 +8,7 @@ At the University of Edinburgh Tea Society, civilised gatherings are our special
 
 We enjoy high quality teas and infusions from around the world, provided locally by Edinburgh tea shops as well as gathered by our members on their travels.  We try to impart knowledge about their origins and how they were produced as much as possible.  If you choose to join our ranks, you'll have access to our extensive 'library' of teas free of charge.
 
-You can find us every Wednesday from 5.30pm to 7pm in the University Chaplaincy Room 1.
+You can find us every Thursday from 5.30pm to 7pm in the University Chaplaincy Room 1.
 
 ### Don't like tea?
 
@@ -20,17 +20,17 @@ Membership is just £5 for the whole academic year, although you're never oblige
 
 You can pay for membership in person at any of our events, or <a href="http://www.eusa.ed.ac.uk/societies/society/SocieTea/">on the EUSA website</a>.
                         
-### CommitTea 2016-17
+### CommitTea 2017-18
 
 You can contact us at edinburghSocieTea {at} gmail {dot} com.
                         
-* El PresidenTea: Leo Lobski
-* El Vice PresidenTea: Pia Kullik
-* SecreTeary: Dominic Miškelis
-* Teareasurer: Andrew Whittington
-* Tea Historian and Blogger: Samuel Sučík
-* (Extra)Ordinary member: Matúš Falis
+* El PresidenTea: Dominic Miškelis
+* El Vice PresidenTea: Hao Zhang
+* SecreTeary: Eva Stanistreet
+* Teareasurer: Alexander Pietz
+* Tea Historian and Blogger: Leo Lobski
+* (Extra)Ordinary member: Samuel Sučík
 
-### ConsTeatution 2015-16
+### ConsTeatution 2017-18
 
 Here you can find our <a href="https://www.eusa.ed.ac.uk/resources/SocieTea/Constitution/">ConsTeatution</a>, as required by EUSA.
