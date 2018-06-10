@@ -3,6 +3,7 @@ baseurl = "http://edinburghsocietea.co.uk/new"
 languageCode = "en-us"
 title = "Edinburgh SocieTea"
 theme = "hugo-agency-theme"
+enableEmoji = true
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -145,9 +146,9 @@ googleAnalytics = ""
 
     # About section
   [params.about]
-    enable = false
+    enable = true
     title = "History"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = ""
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
@@ -155,27 +156,41 @@ googleAnalytics = ""
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "2009-2011"
+      date = "March 3rd, 2010"
       title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.about.events]]
-      img = "2.jpg"
-      date = "March 2011"
-      title = "An Agency is Born"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      description = "The SocieTEA is born and her frist ConsTEAtution is established."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "December 2012"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "April 8th, 2010"
+      title = "A Real Society"
+      description = "EUSA officially recognises SocieTEA as university student society :tada:."
+
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "April, 2010"
+      title = "Anteaques & Eteaket Partnership"
+      description = "Partnerships are established with Anteaques and Eteaket."
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "July 2014"
-      title = "Phase Two Expansion"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "September 17th, 2010"
+      title = "First Japanese Tea Ceremony"
+      description = "As part of Fresher's Week, the SocieTEA conducted the first Japanese Tea Ceremony in cooperation with Mio Shapley."
+
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "December, 2010"
+      title = "PekoeTea Partnership"
+      description = "Partnerships are established with a new tea shop, PekoeTea."
+
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "December, 2017"
+      title = "Rosevear Tea Partnership"
+      description = "Partnerships are established with a new tea shop, Rosevear Tea."
+
+
 
 
   # Team section
@@ -324,7 +339,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     #copyright = "Published under the Apache License 2.0."
-    footnotes = "for holders of valid membership cards, in-store only, exclusions apply at the discretion of the merchant"
+    footnotes = "for holders of valid membership cards, in-store only, exclusions apply at the discretion of the merchant."
 
     [[params.footer.social]]
       icon = "fa-facebook"
@@ -334,4 +349,4 @@ googleAnalytics = ""
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
-      link = "/privacy/"
+      link = "privacy/"
