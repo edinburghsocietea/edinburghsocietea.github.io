@@ -251,7 +251,7 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "rosevear.png"
         link = "https://roseveartea.co.uk/"
-        discount = "20% discount on teas, 10% discount on teaware"
+        discount = "20% discount on teas, 10% discount on accessories"
 
       [[params.clients]]
         logo = "pekoetea.png"
@@ -261,7 +261,7 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "eteaket.png"
         link = "https://www.eteaket.co.uk/"
-        discount = "20% discount on teas, 10% discount on teaware"
+        discount = "10% discount on teas in concept store and tea room"
 
       [[params.clients]]
         logo = "Eusa.gif"
