@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://edinburghsocietea.co.uk/new"
+baseurl = "http://edinburghsocietea.co.uk/"
 languageCode = "en-us"
 title = "Edinburgh SocieTea"
 theme = "hugo-agency-theme"
@@ -210,7 +210,7 @@ googleAnalytics = ""
       name = "Eva Stanistreet"
       position = "El PresidenTea"
       #scope = [
-      #  "whatever"
+      #  "whatever", "test"
       #]
       # For bio markdown and even multiline strings are available.
       #bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
@@ -236,10 +236,6 @@ googleAnalytics = ""
       name = "Alexander Pietz"
       position = "Tea Historian"
 
-    [[params.team.members]]
-      img = "dom.png"
-      name = "Dominic Miškelis"
-      position = "(Extra)Ordinary Member"
 
   # Client section
     [params.clients_list]

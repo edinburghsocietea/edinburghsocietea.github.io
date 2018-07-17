@@ -9,7 +9,7 @@
     </div>
     <div class="row flexbox{{ if .Site.Params.team.center }} flexbox-center{{ end }}">
       {{ range .Site.Params.team.members }}
-        <div class="col-sm-4 col">
+        <div class="col-sm-4 col" style="margin: 0 auto;">
           <div class="team-member">
             {{ $url := printf "img/team/%s" .img }}
             <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .name }}">
