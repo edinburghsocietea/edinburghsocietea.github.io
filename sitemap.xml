@@ -22,5 +22,10 @@
     <loc>http://edinburghsocietea.co.uk/tags/</loc>
     <priority>0</priority>
   </url>
+
+  <url>
+    <loc>http://edinburghsocietea.co.uk/newsletter1819/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
