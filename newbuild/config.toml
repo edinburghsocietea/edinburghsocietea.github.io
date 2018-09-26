@@ -259,6 +259,16 @@ googleAnalytics = ""
         discount = "20% discount on teas, 10% discount on teaware"
 
       [[params.clients]]
+        logo = "eic.png"
+        link = "https://www.theeastindiacompany.com"
+        discount = "20% discount on teas (Edinburgh Store)"
+
+      [[params.clients]]
+        logo = "tempo.gif"
+        link = "https://tempoteabar.com/"
+        discount = "10% discount (Edinburgh and Glasgow Store)"
+
+      [[params.clients]]
         logo = "eteaket.png"
         link = "https://www.eteaket.co.uk/"
         discount = "10% discount on teas in concept store and tea room"
@@ -341,6 +351,16 @@ googleAnalytics = ""
       icon = "fa-facebook"
       link = "https://www.facebook.com/groups/societea/"
       title = "Facebook"
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      link = "https://twitter.com/UofESocieTea"
+      title = "Twitter"
+
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      link = "https://www.instagram.com/edinburghsocietea/"
+      title = "Instagram"
 
 
     [[params.footer.quicklinks]]
