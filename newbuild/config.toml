@@ -190,6 +190,11 @@ googleAnalytics = ""
       title = "Rosevear Tea Partnership"
       description = "Partnerships are established with a new tea shop, Rosevear Tea."
 
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "September, 2018"
+      title = "East India Company Partnership"
+      description = "Partnerships are established with the East India Company."
 
 
 
@@ -235,6 +240,11 @@ googleAnalytics = ""
       img = "alex.png"
       name = "Alexander Pietz"
       position = "Tea Historian"
+
+    [[params.team.members]]
+      img = "meredith.png"
+      name = "Meredith Bailey"
+      position = "(Extra)Ordinary Member"
 
 
   # Client section
