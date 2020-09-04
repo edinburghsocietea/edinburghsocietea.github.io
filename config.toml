@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://edinburghsocietea.co.uk/"
+baseurl = "https://edinburghsocietea.co.uk/"
 languageCode = "en-us"
 title = "Edinburgh SocieTea"
 theme = "hugo-agency-theme"

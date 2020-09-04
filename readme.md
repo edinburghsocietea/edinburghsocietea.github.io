@@ -20,7 +20,11 @@ in the project directory to spin up a local test server. If everything looks oka
 ```sh
 hugo -D
 ```
-Push the changes up, GitHub pages
+Commit and push the changes up to the main branch. Then update the gh-pages branch using:
+```sh
+git subtree push --prefix public origin gh-pages
+```
+This will automatically update the live version (few minutes caching delay probably!).
 
 ## Domain
 Domain is currently registered to [@AlexPietz](https://github.com/AlexPietz/). It's too much of a hassle to change owner every year and they don't mind paying for it. If theres problems or changes needed, ping them.
