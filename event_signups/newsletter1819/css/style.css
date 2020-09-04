@@ -1,0 +1,150 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+ol,ul{list-style:none;margin:0px;padding:0px;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+/* start editing from here */
+a{text-decoration:none;}
+.txt-rt{text-align:right;}/* text align right */
+.txt-lt{text-align:left;}/* text align left */
+.txt-center{text-align:center;}/* text align center */
+.float-rt{float:right;}/* float right */
+.float-lt{float:left;}/* float left */
+.clear{clear:both;}/* clear float */
+.pos-relative{position:relative;}/* Position Relative */
+.pos-absolute{position:absolute;}/* Position Absolute */
+.vertical-base{	vertical-align:baseline;}/* vertical align baseline */
+.vertical-top{	vertical-align:top;}/* vertical align top */
+nav.vertical ul li{	display:block;}/* vertical menu */
+nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
+img{max-width:100%;}
+/*end reset*/
+/****-----start-body----****/
+body{
+	background:url(../images/bg-1.jpg)  no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+ 	background-size: cover;
+ 	font-family: 'Arimo', sans-serif;
+
+}
+.login-form{
+	background-color: #fff;
+	margin: 13em auto 0;
+	width: 342px;
+	height:450px;
+	border-radius: 0.6em;
+	-webkit-border-radius: 0.6em;
+	-moz-border-radius: 0.6em;
+	-o-border-radius: 0.6em;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3), 0 1px 1px rgba(0,0,0,0.25);
+	position: relative;
+}
+.logo {
+	position: absolute;
+    left: calc(50% - 160px);
+    width: 319px;
+    height: 319px;
+    margin-top: -200px;
+}
+form {
+	text-align: center;
+}
+.login-form h1{
+	font-size: 1.4em;
+	font-weight: 700;
+	color: #000;
+	padding-top:100px;
+	text-align: center;
+	font-family: 'Arimo', sans-serif;
+	line-height: 1.4em;
+	width: 90%;
+	margin: 0 auto;
+}
+.form-group {
+	background: #f1f1f1;
+	margin: auto;
+	margin-top: 5px;
+	width: 90%;
+	border: 4px solid #172445;
+	border-radius: 0.3em;
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	
+	
+}
+.help-block{
+	display: none !important;
+}
+input[type="text"] {
+	font-family: 'Arimo', sans-serif;
+	outline: none;
+	font-size: 0.9em;
+	color: #342C29;
+	background: #f1f1f1; 
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	width: 90%;
+	position:relative;
+} 
+
+input[type="text"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: e1e1e1;
+}
+input[type="text"]::-moz-placeholder { /* Firefox 19+ */
+  color: e1e1e1;
+}
+input[type="text"]:-ms-input-placeholder { /* IE 10+ */
+  color: e1e1e1;
+}
+input[type="text"]:-moz-placeholder { /* Firefox 18- */
+  color: e1e1e1;
+}
+
+button[type="submit"]{
+	width:200px; 
+	height:50px;
+	margin: 5px auto 0;
+	position:relative;
+	cursor: pointer;
+}
+/****************/
+.copy-right {
+	text-align: center;
+	margin-top: 3em;
+}
+.copy-right p {
+	color: #222;
+	font-size: 1em;
+	font-family: 'Arimo', sans-serif;
+	font-weight: 700;
+}
+.copy-right p a {
+	font-family: 'Arimo', sans-serif;
+	font-size: 1em;
+	color:#D35C1E;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.copy-right p a:hover {
+	color:#222;
+}
