@@ -268,15 +268,11 @@ googleAnalytics = ""
         link = "https://www.pekoetea.co.uk/"
         discount = "20% discount on teas, 10% discount on teaware"
 
-      [[params.clients]]
-        logo = "eic.png"
-        link = "https://www.theeastindiacompany.com"
-        discount = "20% discount on teas (Edinburgh Store)"
 
       [[params.clients]]
         logo = "tempo.gif"
         link = "https://tempoteabar.com/"
-        discount = "10% discount (Edinburgh and Glasgow Store)"
+        discount = "10% discount (Glasgow Store)"
 
       [[params.clients]]
         logo = "eteaket.png"
